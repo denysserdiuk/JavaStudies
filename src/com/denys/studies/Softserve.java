@@ -15,6 +15,6 @@ public class Softserve {
 	    String[] petals = {"I love you", "a little", "a lot", "passionately", "madly", "not at all"};
 	    
 	    return petals[(nb_petals-1) % 6];
-	  
+	  //comment
 	}
 }	    
