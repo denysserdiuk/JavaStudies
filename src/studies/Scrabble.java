@@ -1,4 +1,4 @@
-package com.denys.studies;
+package studies;
 import java.util.Scanner;
 
 public class Scrabble {
